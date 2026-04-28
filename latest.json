@@ -1,0 +1,26 @@
+{
+  "launcher": {
+    "version": "a0.0.2",
+    "build": "1",
+    "downloads": {
+      "linux_amd64": { "url": "https://raw.githubusercontent.com/BreadChaser/SideLauncherReleases/main/launcher/sidelauncher-a0.0.2+1-linux-amd64" }
+    }
+  },
+  "projects":
+[
+  {
+    "id": "voxel",
+    "name": "Voxel",
+    "manifest_url": "https://raw.githubusercontent.com/BreadChaser/VoxelGoReleases/main/latest.json",
+    "client_name_template": "voxel-{version}+{build}-{platform_tag}{exe}",
+    "server_name_template": "voxel-server-{version}+{build}-{platform_tag}{exe}"
+  },
+  {
+    "id": "halo-ce-port",
+    "name": "Halo CE Port Test",
+    "manifest_url": "https://raw.githubusercontent.com/BreadChaser/HaloCEPortReleases/main/latest.json",
+    "resource_dir": "Resources"
+  }
+]
+
+}
