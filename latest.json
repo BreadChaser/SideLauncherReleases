@@ -1,10 +1,10 @@
 {
   "launcher": {
-    "version": "a0.0.12",
-    "build": "11",
+    "version": "a0.0.13",
+    "build": "12",
     "downloads": {
-      "linux_amd64": { "url": "https://raw.githubusercontent.com/BreadChaser/SideLauncherReleases/main/launcher/sidelauncher-a0.0.12+11-linux-amd64" },
-      "windows_amd64": { "url": "https://raw.githubusercontent.com/BreadChaser/SideLauncherReleases/main/launcher/sidelauncher-a0.0.12+11-windows-amd64.exe" }
+      "linux_amd64": { "url": "https://raw.githubusercontent.com/BreadChaser/SideLauncherReleases/main/launcher/sidelauncher-a0.0.13+12-linux-amd64" },
+      "windows_amd64": { "url": "https://raw.githubusercontent.com/BreadChaser/SideLauncherReleases/main/launcher/sidelauncher-a0.0.13+12-windows-amd64.exe" }
     }
   },
   "projects":
@@ -18,9 +18,13 @@
   },
   {
     "id": "halo-ce-port",
-    "name": "Halo CE Port Test",
+    "name": "Haven",
     "manifest_url": "https://raw.githubusercontent.com/BreadChaser/HaloCEPortReleases/main/latest.json",
-    "resource_dir": "resources"
+    "app_home_dir": "HavenReclaimed",
+    "resource_dir": "HavenReclaimed/resources",
+    "maps_dir": "HavenReclaimed/maps",
+    "gametypes_dir": "HavenReclaimed/gametypes",
+    "detect_install_root": "mcc"
   }
 ]
 
