@@ -1,10 +1,10 @@
 {
   "launcher": {
-    "version": "a0.0.17",
-    "build": "16",
+    "version": "a0.0.18",
+    "build": "17",
     "downloads": {
-      "linux_amd64": { "url": "https://raw.githubusercontent.com/BreadChaser/SideLauncherReleases/main/launcher/sidelauncher-a0.0.17+16-linux-amd64" },
-      "windows_amd64": { "url": "https://raw.githubusercontent.com/BreadChaser/SideLauncherReleases/main/launcher/sidelauncher-a0.0.17+16-windows-amd64.exe" }
+      "linux_amd64": { "url": "https://raw.githubusercontent.com/BreadChaser/SideLauncherReleases/main/launcher/sidelauncher-a0.0.18+17-linux-amd64" },
+      "windows_amd64": { "url": "https://raw.githubusercontent.com/BreadChaser/SideLauncherReleases/main/launcher/sidelauncher-a0.0.18+17-windows-amd64.exe" }
     }
   },
   "projects":
