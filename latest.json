@@ -1,13 +1,13 @@
 {
   "launcher": {
-    "version": "a0.0.33",
-    "build": "32",
+    "version": "a0.0.34",
+    "build": "33",
     "downloads": {
-      "linux_amd64": { "url": "https://raw.githubusercontent.com/BreadChaser/SideLauncherReleases/main/launcher/sidelauncher-a0.0.33+32-linux-amd64" },
-      "windows_amd64": { "url": "https://raw.githubusercontent.com/BreadChaser/SideLauncherReleases/main/launcher/sidelauncher-a0.0.33+32-windows-amd64.exe" },
+      "linux_amd64": { "url": "https://raw.githubusercontent.com/BreadChaser/SideLauncherReleases/main/launcher/sidelauncher-a0.0.34+33-linux-amd64" },
+      "windows_amd64": { "url": "https://raw.githubusercontent.com/BreadChaser/SideLauncherReleases/main/launcher/sidelauncher-a0.0.34+33-windows-amd64.exe" },
       "nintendo_3ds": {
-        "3dsx": { "url": "https://raw.githubusercontent.com/BreadChaser/SideLauncherReleases/main/launcher/3ds-launcher-a0.0.33+32.3dsx" },
-        "cia": { "url": "https://raw.githubusercontent.com/BreadChaser/SideLauncherReleases/main/launcher/3ds-launcher-a0.0.33+32.cia" }
+        "3dsx": { "url": "https://raw.githubusercontent.com/BreadChaser/SideLauncherReleases/main/launcher/3ds-launcher-a0.0.34+33.3dsx" },
+        "cia": { "url": "https://raw.githubusercontent.com/BreadChaser/SideLauncherReleases/main/launcher/3ds-launcher-a0.0.34+33.cia" }
       }
     }
   },
